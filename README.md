@@ -1,4 +1,4 @@
-# googlecloudnetworkingcertification
+# Google Cloud Professional Network Engineer Crash Course
 This repository is where students can download course materials.
 Google Cloud offers a portfolio of cloud networking and security services that can easily be deployed in your Google Cloud environment.
 
